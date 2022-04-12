@@ -1,4 +1,4 @@
-lazy val log4j2V     = "2.17.1"
+lazy val log4j2V     = "2.17.2"
 lazy val akkaV       = "2.6.19"
 lazy val circeV      = "0.14.1"
 lazy val scalatestV  = "3.2.11"
